@@ -1,8 +1,8 @@
 +++
-title = "Emma"
-subtitle = "Classic novel that no one has read"
+title = "VS Code"
+subtitle = "物書きのVS Code解説"
 author = "Jane Austen"
-date = "2019-05-13"
+date = "2020-08-21"
 weight = 2
 bookCover = "bookCovers/emma.jpg"
 bookCoverSmall = "bookCovers/emma_small.jpg"
