@@ -1,0 +1,3 @@
++++ title = "Chapter I" weight = 1 date = "2019-05-12" +++
+
+Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence; and had lived nearly twenty-one years in the world with very little to distress or vex her.
