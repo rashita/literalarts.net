@@ -1,5 +1,5 @@
-baseURL = "https://example.org/"
-languageCode = "en-us"
+baseURL = "https://www.literalarts.info/"
+languageCode = "en"
 theme = "kitab"
 title = "Books of Jane Austen"
 
