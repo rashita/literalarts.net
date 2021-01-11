@@ -10,8 +10,8 @@ pluralizelisttitles = false
   author = "tadanorik kurashita"
   description = "Literal Arts"
   dateFormat = "2006-01-02"
-  footer1 = "言葉と遊ぶ　言葉で遊ぶ"
-  footer2 = "R-style"
+  footer1 = "知と遊び 道具を作り 世界を楽しむ"
+  footer2 = " enjoy"
 
 [markup]
   [markup.goldmark]
